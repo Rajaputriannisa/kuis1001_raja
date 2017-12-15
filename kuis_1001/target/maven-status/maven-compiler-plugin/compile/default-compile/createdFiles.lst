@@ -1,0 +1,9 @@
+com\tib\kuis_1001\entity\Mobil_1001.class
+com\tib\kuis_1001\Kuis1001Application.class
+com\tib\kuis_1001\repo\Aksesoris_1001Repo.class
+com\tib\kuis_1001\entity\Aksesoris_1001.class
+com\tib\kuis_1001\service\Aksesoris_1001Service.class
+com\tib\kuis_1001\controller\Mobil_1001Controller.class
+com\tib\kuis_1001\controller\Aksesoris_1001Controller.class
+com\tib\kuis_1001\repo\Mobil_1001Repo.class
+com\tib\kuis_1001\service\Mobil_1001Service.class
